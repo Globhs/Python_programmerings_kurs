@@ -1,0 +1,13 @@
+1. Vem skapades Python av?
+Guido van Rossum
+
+2. Pythonversioner skrivs enligt notationen A.B.C Vad står A, B respektive C för?
+Dem olika versionerna står för hur ofta dem uppdateras.
+A ändras bara när det förekommer riktigt stora förändringar i hur python fungerar.
+B ändras när det förekommer mindre förändringar men inte alls så stora som på A.
+C ändras när något problem upstår i B-versionen som behöver fixas.
+
+3. Vad är en virtuell miljö?
+En virutell miljö är en kopia av en python-installation så att den inte ska krocka
+med den centrala eller andra python-installationer. I en virtuell miljö kan man lägga
+till tredjepartsbibliotek mm.
